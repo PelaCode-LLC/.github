@@ -12,11 +12,13 @@ Roar:
 Guzzle ROAR is a lightweight chatting application. It has contextual text completion, fast lookup, notification system on number and mail, auth, and stripe integration for secure payments.
 
 
-## 🌟 Authors
+## 🌟 Authors & Team
 
 * Ishmael Pelayo - Co-Founder & CTO
 * Cody Miller - Co-Founder & CIO
 * Jennifer Phan - Chief Engineer
+* William Lee
+* Kody Rogers
 
 ## 📝 Version History
 
