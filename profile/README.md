@@ -17,8 +17,8 @@ Guzzle ROAR is a lightweight chat application. It has contextual text completion
 * Ishmael Pelayo - Co-Founder & CTO
 * Cody Miller - Co-Founder & CIO
 * Jennifer Phan - Chief Engineer
-* William Lee
-* Kody Rogers
+* William Lee - Social Media Manager
+* Kody Rogers - Sales and Strategy Lead
 
 ## 📝 Version History
 
